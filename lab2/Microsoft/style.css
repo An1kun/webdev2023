@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000;
+    background-color: #fff;
+}
+.headershowing{
+    font-size: 15px;
+    font-family: 'Segoe UI',SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #000;
+    background-color: #fff;
+    min-width: 280px;
+}
+#header3{    padding: 0 5%;}
+.headermega{
+    font-size: 13px ;
+    height: 54px;
+    margin-bottom: 2px;
+}
+.microsoftheader{
+    max-width: 1600px;
+    height: 100%;
+    margin: 0 auto;
+    box-sizing: inherit;
+}
+#logomicro{    padding: 16px 6px 16px 10px;
+    float: left;
+    height: 100%;
+    margin-top: 1px;
+    width: 137px;
+    outline-offset: -2px;}
+.image{
+    margin-top: -3px;
+    max-width: none;
+    width: 108px;
+    display: block;
+    height: auto;
+    vertical-align: middle;
+}
+#headmenu{
+    overflow: hidden;
+    height: 100%;
+    white-space: nowrap;
+    padding-left: 2px;
+    padding-right: 1px;
+}
+
+.menumicro{
+    padding: 0;
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.menucoming{
+    word-break: break-word;
+
+}
+.menu_1_1{
+    border: 1px solid transparent;
+    color: #262626;
+    display: inline-block;
+    margin-top: 1px;
+    padding: 16px 8px 10px;
+    height: 48px;
+    outline-offset: -2px;
+    text-decoration: none;
+}
